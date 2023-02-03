@@ -1,4 +1,4 @@
-# Continuous Integration ![https://github.com/norawillett/lab02/actions?query=workflow% 3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/norawillett/lab02/actions?query=workflow% 3Atests](https://github.com/norawillett/lab02/workflows/tests/badge.svg)
 
 
 # Pytest Lab
