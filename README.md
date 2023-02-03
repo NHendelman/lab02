@@ -1,3 +1,6 @@
+# Continuous Integration ![https://github.com/norawillett/lab02/actions?query=workflow% 3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+
+
 # Pytest Lab
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
